@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! My name is Alec, I am an aspiring Data Scientist and Statistician with an interest in Finance, Machine Learning Algorithms and Sports Analytics! Below is an introduction to my work along with some of my projects. Feel free to contact me about these projects at my email: aleczhang2027@u.northwestern.edu or my [LinkedIn](www.linkedin.com/in/alec-zhang)
+Hi! My name is Alec, I am an aspiring Data Scientist and Statistician with an interest in Finance, Machine Learning Algorithms and Sports Analytics! Below is an introduction to my work along with some of my projects. My projects are build using either Python or R. Feel free to contact me about these projects at my email: aleczhang2027@u.northwestern.edu or my [LinkedIn](www.linkedin.com/in/alec-zhang)
 
 
 ### Technical Skills: Python, R, SQL, Tableau, Excel
